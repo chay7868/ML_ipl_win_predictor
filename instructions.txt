@@ -1,0 +1,5 @@
+How to start:
+1. Download and open the folder in pycharm
+2. Open the command prompt in pycharm and type 'streamlit run app1.py'
+3. If the command doesnt work, install pip and type 'pip install streamlit'
+4. The application starts successfully.
